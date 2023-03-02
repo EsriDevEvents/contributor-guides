@@ -10,11 +10,11 @@ We have created a [repository template](https://github.com/EsriDevEvents/ds-2023
 
 | Session type        | Repo title                  | Topics                                              | E.g.                                                                           |
 | ------------------- | --------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Technical sessions  | Session to name<sup>1</sup> | `technical-session`, `talk`                         | `arcgis-online-imagery-analysis-using-python`                                  |
-| Presummit workshops | Session to name<sup>1</sup> | `presummit-workshops`, `workshop-materials`         | `deep-dive-into-arcgis-arcade-and-automation-with-arcgis-field-maps`           |
+| Technical sessions  | Session to name<sup>1</sup> | `technical-session`, `talk`                         | `arcgis-online-imagery-analysis-using-python-2023`                                  |
+| Presummit workshops | Session to name<sup>1</sup> | `presummit-workshops`, `workshop-materials`         | `deep-dive-into-arcgis-arcade-and-automation-with-arcgis-field-maps-2023`           |
 | Plenary demos       | Section name<sup>1</sup>    | \[conference\]-\[continent\]\-plenary-\[topic\]-\[year\] | `ds-europe-plenary-web-2022`, `fed-plenary-web-2023`, `uc-usa-plenary-native-2023` |
 | User presentations  | Session to name<sup>1</sup> | `presummit-workshops`, `workshop-materials`         | `python-toolboxes-for-developers-and-novice-users`                             |
-| Demo theater        | Session to name<sup>1</sup> | `demo-theater`                                      | `an-introduction-to-javascript-for-future-web-developers`                      |
+| Demo theater        | Session to name<sup>1</sup> | `demo-theater`                                      | `an-introduction-to-javascript-for-future-web-developers-2023`                      |
 | Speedgeeking        | Edition name                | speedgeeking-\[conference\]-\[continent\]-\[year\]  | `speedgeeking-ds-usa-2023`                                                                             |
 
 > (1)  [Slugify the title of the sessions](https://slugify.online/) using lowercase and separate with dashes 
