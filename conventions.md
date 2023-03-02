@@ -1,5 +1,10 @@
 # Conventions for repositories
 
+We have created a [repository template](https://github.com/EsriDevEvents/ds-2023-repo-template) that can be used to create your own:
+
+![repository-template](https://user-images.githubusercontent.com/826965/222424871-ac156f1b-22ea-4452-b87b-2ad978f04d75.png)
+
+
 ## General rules
 
 
