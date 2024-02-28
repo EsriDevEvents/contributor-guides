@@ -2,9 +2,9 @@
 
 Esri welcomes contributions from anyone and everyone. The [EsriDevEvents organization](https://github.com/EsriDevEvents?type=source) is meant to host supplemental source code, example projects, and resources supporting Esri Developer Summits, Developer Day at Esri UC, FedGIS, #GeoDev webinars, and meetups.
 
-To request access to contribute to this repo, choose one of the following:
+If you are a speaker at one of the Esri events listed below and would like to contribute your source code to this repository, choose one of the following:
 
-1. If you are a speaker at one of the Esri events listed below and would like to contribute your source code to this repository, contact [DeveloperOutreach](mailto:DeveloperOutreach@esri.com) with your event, presentation title, and your GitHub user id and ask for access.
+1. Contact [Developer Outreach](mailto:DeveloperOutreach@esri.com) with your event, presentation title, and your GitHub user id and ask for access.
 2. Create an issue requesting access and indicate your event and presentation title.
 
 **Resources**:
