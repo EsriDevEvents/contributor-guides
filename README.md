@@ -4,7 +4,7 @@ Esri welcomes contributions from anyone and everyone. The [EsriDevEvents organiz
 
 If you are a speaker at one of the Esri events listed below and would like to contribute your source code to this repository, choose one of the following:
 
-1. Contact [Developer Outreach](mailto:DeveloperOutreach@esri.com) with your event, presentation title, and your GitHub user id and ask for access.
+1. Contact [Developer Outreach](mailto:developers@esri.com) with your event, presentation title, and your GitHub user id and ask for access.
 2. Create an issue requesting access and indicate your event and presentation title.
 
 **Resources**:
